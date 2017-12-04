@@ -1,0 +1,13 @@
+{
+    "name": "RadioHead",
+    "keywords": "radio, iot",
+    "description": "Multidevice radio module library.",
+    "repository": {
+        "type": "git",
+        "url": "http://www.airspayce.com/mikem/arduino/RadioHead/"
+    },
+    "version": "1.79",
+    "examples": "examples/*/*/*.pde",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
